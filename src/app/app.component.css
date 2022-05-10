@@ -1,0 +1,25 @@
+p {
+  font-family: Lato;
+  background-color: navy;
+  color: wheat;
+}
+h1{
+  background-color: navy;
+}
+ul{
+  background-color: wheat;
+}
+#contenedor1{
+ text-align: center;
+}
+#contenedor2{
+  text-align: center;
+}
+#contenedor3{
+  text-align: center;
+  background-color: navy
+  ;
+}
+a{
+  color: yellow;
+}
